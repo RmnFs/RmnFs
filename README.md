@@ -30,7 +30,7 @@
 
 ## Socials   
 
-- **LinkedIn:** https://www.linkedin.com/in/riman-faradis-535858256/  
+- **LinkedIn:** https://www.linkedin.com/in/riman-faradis/
 - **Twitter/X:** https://twitter.com/Riman_Rmn
 - **GitHub:** https://github.com/rmnfs  
   
