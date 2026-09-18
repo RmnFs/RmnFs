@@ -8,7 +8,7 @@
  Currently trying to keep up with AI,  learning backend technologies, and improving my problem-solving skills through hands-on projects.
 
 ### 🔍 Current Activities
-- Exploring **Next.js** and modern React ecosystems   
+- Exploring **Rust** and building **Kotha**   
 - Learning **machine learning fundamentals**  
 - Improving backend skills with **Node.js** and **MongoDB**
 - Exprementing with **ML-Agents** in Unity
